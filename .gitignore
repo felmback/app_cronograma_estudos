@@ -206,3 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 stremlit/.streamlit/secrets.toml
+.streamlit/secrets.toml
