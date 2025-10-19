@@ -6,6 +6,7 @@ import math
 import json
 import os
 
+
 # Configurações
 DIAS_SEMANA = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
 TEMPO_PADRAO = "1h Estudo"
